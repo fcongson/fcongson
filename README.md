@@ -1,6 +1,6 @@
 # **Hello** 👋
 
-![Logo](https://raw.githubusercontent.com/fcongson/fcongson/main/logo.png)
+![Logo](https://raw.githubusercontent.com/fcongson/fcongson/main/logo-concept.jpg)
 
 I'm Frank, a Full Stack Developer currently based out of Wellington, New Zealand. I’m also a dad, husband, traveler, minimalist, and rock climber.
 
